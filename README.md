@@ -10,3 +10,18 @@ You must [add the following topics](https://help.github.com/en/articles/classify
 
 - `F19` (indicates Fall 2019. If it is not Fall 2019, I forgot to update this. Please make a PR on this repo to update it to the appropriate term!)
 - `assignment`
+
+### README template starts below this line 👇👇👇
+
+----
+
+# COMPANY NAME
+
+![Team Logo](./logo.png)
+
+COMPANY NAME is a company founded in the THEME industry. COMPANY NAME aims to VISION STATEMENT.
+
+Table of Contents
+---
+
+- [People](./team/)
