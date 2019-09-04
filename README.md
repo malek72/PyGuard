@@ -25,3 +25,4 @@ Table of Contents
 ---
 
 - [People](./team/)
+- [Diversity](./team/diversity.md)
