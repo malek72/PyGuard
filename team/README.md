@@ -1,3 +1,5 @@
+[COMPANY NAME Principles](./principles.md)
+
 People at COMPANY NAME
 ---
 
