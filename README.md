@@ -4,7 +4,7 @@ This Repository includes a template for your Team's Repository. https://github.c
 
 **README template starts below this line 👇👇👇 Delete above this line :)**
 
-# COMPANY NAME
+# PyGuard
 
 ![Team Logo](./logo.png)
 
