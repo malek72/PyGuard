@@ -1,6 +1,6 @@
 # Yunling Zhang
 
-![Yunling Zhang Profile](./yunling_zhang_image.jpg)
+![Yunling Zhang Profile](./yunling_zhang_image.png)
 
 - Software Developer
 - wendyyy.zhang@mail.utoronto.ca
